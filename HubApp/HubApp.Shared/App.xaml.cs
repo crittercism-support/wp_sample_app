@@ -119,9 +119,7 @@ namespace HubApp
             // Ensure the current window is active
             Window.Current.Activate();
 
-            Crittercism.Init("537a4e738039805d82000002");
-            Crittercism.SetUsername("MrsCritter");
-            //Crittercism.SetValue("Bird","Feeder");
+            Crittercism.Init("YOUR-APPID-GOES-HERE");
         }
 
 #if WINDOWS_PHONE_APP

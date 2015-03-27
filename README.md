@@ -31,3 +31,4 @@ To set metadata, use **Crittercism.SetValue(string value, string key)** to set c
 
 ### Opt-Out
 You can optionally expose a capability in your application to allow your users to opt out of providing data to Crittercism.  Use **SetOptOutStatus(boolean optOut)** and **GetOptOutStatus()**.  How and where you expose this facility is up to you.
+# wp_sample_app

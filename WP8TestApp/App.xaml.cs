@@ -60,7 +60,7 @@ namespace WP8TestApp
         private void Application_Launching(object sender, LaunchingEventArgs e)
         {
             //// Call the Init of the unhandled managed class library "Crittercism"
-            Crittercism.Init("537a4e738039805d82000002");
+            Crittercism.Init("YOUR-APPID-GOES-HERE");
             Crittercism.LeaveBreadcrumb("Start the application");
         }
 
